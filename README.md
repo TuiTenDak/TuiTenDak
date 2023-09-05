@@ -27,9 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuitendak&show_icons=true&locale=en" alt="tuitendak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuitendak&" alt="tuitendak" /></p>
-<h3 align-left>CTFs Profiles:</h3>
-<a href="https://app.hackthebox.eu/profile/483615"><img src="http://www.hackthebox.eu/badge/image/483615" alt="Hack The Box">
-<img src="https://tryhackme-badges.s3.amazonaws.com/crypt0ace.png" alt="TryHackMe">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
