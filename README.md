@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm TuiTenDak</h1>
 <h3 align="center">A pentest enthusiast in Vietnam</h3>
 <img text-align: "center"  alt="coding" width="950" src="https://camo.githubusercontent.com/c8626937d147ba7805f0989930848b2065807daae2202356d7201a9246c30b51/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3831626234623136353638343031392e363430623630333864313333652e676966">
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/06720997869203835476ff6ee26fba47bd853a183cece5e84b42ec9a77ff20a2/68747470733a2f2f61726461732d69742e636f6d2f75706c6f6164732f696d616765732f626c6f67732f676970682e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuitendak&label=Profile%20views&color=0e75b6&style=flat" alt="tuitendak" /> </p>
 
