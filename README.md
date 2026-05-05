@@ -73,22 +73,6 @@ $ _
 
 ---
 
-## 🎮 3D Contribution Graph
-
-<!--
-  HOW TO ENABLE: This requires a one-time GitHub Action setup.
-  1. Create a new public repo named "tuitendak" (same as your username) if you haven't already.
-  2. Create file: .github/workflows/profile-3d.yml with the action from:
-     https://github.com/yoshi389111/github-profile-3d-contrib
-  3. The action runs daily and pushes profile-3d-contrib/profile-night-rainbow.svg
--->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tuitendak/tuitendak/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</div>
-
----
-
 ## 📊 Metrics
 
 <div align="center">
