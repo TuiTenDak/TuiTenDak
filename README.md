@@ -73,12 +73,49 @@ $ _
 
 ---
 
+## 🎮 3D Contribution Graph
+
+<!--
+  HOW TO ENABLE: This requires a one-time GitHub Action setup.
+  1. Create a new public repo named "tuitendak" (same as your username) if you haven't already.
+  2. Create file: .github/workflows/profile-3d.yml with the action from:
+     https://github.com/yoshi389111/github-profile-3d-contrib
+  3. The action runs daily and pushes profile-3d-contrib/profile-night-rainbow.svg
+-->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tuitendak/tuitendak/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+
+---
+
 ## 📊 Metrics
 
 <div align="center">
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=tuitendak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=a78bfa&text_color=c9d1d9" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuitendak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+
+<br/>
+
 <img src="https://streak-stats.demolab.com/?user=tuitendak&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b6b&currStreakLabel=a78bfa" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuitendak&bg_color=0d1117&color=00ff41&line=00ff41&point=a78bfa&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏆 Trophy Showcase
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tuitendak&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </div>
 
 ---
