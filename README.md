@@ -35,17 +35,9 @@ $ _
 
 ### 💻 Languages
 ![](https://skillicons.dev/icons?i=html,css,js,ts,python,php,java,cs,cpp,go,bash&theme=dark)
-
-### 🎨 Frontend
 ![](https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind,jquery&theme=dark)
-
-### ⚙️ Backend
 ![](https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel&theme=dark)
-
-### 🗄️ Database
 ![](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis&theme=dark)
-
-### 🔧 DevOps & Tools
 ![](https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode,postman,kali&theme=dark)
 
 ### 🛠️ Pentest Tools
