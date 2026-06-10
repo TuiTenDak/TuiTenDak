@@ -110,7 +110,7 @@ $ _
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Tiktok-%231DA1F2.svg?style=for-the-badge&logo=Tiktok&logoColor=white)](https://www.tiktok.com/@_nhatthoa)
+[![Twitter](https://img.shields.io/badge/Tiktok-black.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_nhatthoa)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100017914759148)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_nhhoaa_/)
 
